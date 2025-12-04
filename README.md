@@ -1,5 +1,3 @@
-# Blind-Sense-Real-time-object-detection-and-audio-assistance-for-visually-impaired.
-
 # Blind Sense: Real-Time Object Detection & Audio Assistance
 
 Blind Sense is an AI-powered assistive system designed to support visually impaired individuals by providing real-time object detection and audio feedback.  
